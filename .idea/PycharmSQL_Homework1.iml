@@ -5,4 +5,11 @@
     <orderEntry type="jdk" jdkName="Remote Python 3.8.3 Docker Compose (app at [D:\Dropbox\homework\PycharmSQL_Homework1\docker-compose.yml])" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/app/templates" />
+      </list>
+    </option>
+  </component>
 </module>
