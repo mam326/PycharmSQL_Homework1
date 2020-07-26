@@ -1,6 +1,9 @@
 ##Project Description
-This project is a homework assignment to teach how to get pychram setup with Docker, Flask, MYSQL
+This project to get familiar with SQL and Python.
 
 
-#Postman Screenshot of Bootstrap Formatted Tables
-![postman_request_output](screenshots/bootstrap.png)
+## Postman Screenshot of Professor's Code Working
+![postman_request_output](screenshots/postman_lesson3.png)
+
+## PyCharm Screenshot of Professor's DB Working
+![postman_request_output](screenshots/postman_lesson3.png)
